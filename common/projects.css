@@ -1,0 +1,15 @@
+.link{
+    margin-top: 200px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    list-style: none;
+    color: brown;
+    font-size: 20px;
+}
+a:hover{
+    color: chocolate;
+}
